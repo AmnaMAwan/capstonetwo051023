@@ -1,5 +1,5 @@
 {
-  "host": "http//143.198.51.176",
+  "host": "http://143.198.51.176",
   "port": 1337,
   "proxy": {
     "enabled": false
